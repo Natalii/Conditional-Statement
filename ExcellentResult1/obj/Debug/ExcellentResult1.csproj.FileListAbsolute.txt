@@ -1,0 +1,6 @@
+D:\SoftUni\30.01\ConditionalStatement30.01\ExcellentResult1\bin\Debug\ExcellentResult1.exe.config
+D:\SoftUni\30.01\ConditionalStatement30.01\ExcellentResult1\bin\Debug\ExcellentResult1.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\ExcellentResult1\bin\Debug\ExcellentResult1.pdb
+D:\SoftUni\30.01\ConditionalStatement30.01\ExcellentResult1\obj\Debug\ExcellentResult1.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\ExcellentResult1\obj\Debug\ExcellentResult1.pdb
+D:\SoftUni\30.01\ConditionalStatement30.01\ExcellentResult1\obj\Debug\ExcellentResult1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\SoftUni\30.01\ConditionalStatement30.01\SumSeconds\bin\Debug\SumSeconds.exe.config
+D:\SoftUni\30.01\ConditionalStatement30.01\SumSeconds\obj\Debug\SumSeconds.csprojResolveAssemblyReference.cache
+D:\SoftUni\30.01\ConditionalStatement30.01\SumSeconds\bin\Debug\SumSeconds.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\SumSeconds\bin\Debug\SumSeconds.pdb
+D:\SoftUni\30.01\ConditionalStatement30.01\SumSeconds\obj\Debug\SumSeconds.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\SumSeconds\obj\Debug\SumSeconds.pdb

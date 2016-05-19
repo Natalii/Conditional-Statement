@@ -1,0 +1,5 @@
+D:\SoftUni\30.01\ConditionalStatement30.01\Proba5\bin\Debug\Proba5.exe.config
+D:\SoftUni\30.01\ConditionalStatement30.01\Proba5\bin\Debug\Proba5.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\Proba5\bin\Debug\Proba5.pdb
+D:\SoftUni\30.01\ConditionalStatement30.01\Proba5\obj\Debug\Proba5.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\Proba5\obj\Debug\Proba5.pdb

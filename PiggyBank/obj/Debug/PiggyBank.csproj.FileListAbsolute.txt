@@ -1,0 +1,6 @@
+D:\SoftUni\30.01\ConditionalStatement30.01\PiggyBank\bin\Debug\PiggyBank.exe.config
+D:\SoftUni\30.01\ConditionalStatement30.01\PiggyBank\obj\Debug\PiggyBank.csprojResolveAssemblyReference.cache
+D:\SoftUni\30.01\ConditionalStatement30.01\PiggyBank\bin\Debug\PiggyBank.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\PiggyBank\bin\Debug\PiggyBank.pdb
+D:\SoftUni\30.01\ConditionalStatement30.01\PiggyBank\obj\Debug\PiggyBank.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\PiggyBank\obj\Debug\PiggyBank.pdb

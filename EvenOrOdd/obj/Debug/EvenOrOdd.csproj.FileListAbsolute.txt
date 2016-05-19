@@ -1,0 +1,6 @@
+D:\SoftUni\30.01\ConditionalStatement30.01\EvenOrOdd\bin\Debug\EvenOrOdd.exe.config
+D:\SoftUni\30.01\ConditionalStatement30.01\EvenOrOdd\bin\Debug\EvenOrOdd.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\EvenOrOdd\bin\Debug\EvenOrOdd.pdb
+D:\SoftUni\30.01\ConditionalStatement30.01\EvenOrOdd\obj\Debug\EvenOrOdd.csprojResolveAssemblyReference.cache
+D:\SoftUni\30.01\ConditionalStatement30.01\EvenOrOdd\obj\Debug\EvenOrOdd.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\EvenOrOdd\obj\Debug\EvenOrOdd.pdb

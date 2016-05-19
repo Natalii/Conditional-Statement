@@ -1,0 +1,6 @@
+D:\SoftUni\30.01\ConditionalStatement30.01\Cinema1\bin\Debug\Cinema1.exe.config
+D:\SoftUni\30.01\ConditionalStatement30.01\Cinema1\bin\Debug\Cinema1.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\Cinema1\bin\Debug\Cinema1.pdb
+D:\SoftUni\30.01\ConditionalStatement30.01\Cinema1\obj\Debug\Cinema1.csprojResolveAssemblyReference.cache
+D:\SoftUni\30.01\ConditionalStatement30.01\Cinema1\obj\Debug\Cinema1.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\Cinema1\obj\Debug\Cinema1.pdb

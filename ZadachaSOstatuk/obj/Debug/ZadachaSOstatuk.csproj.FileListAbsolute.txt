@@ -1,0 +1,6 @@
+D:\SoftUni\30.01\ConditionalStatement30.01\ZadachaSOstatuk\bin\Debug\ZadachaSOstatuk.exe.config
+D:\SoftUni\30.01\ConditionalStatement30.01\ZadachaSOstatuk\bin\Debug\ZadachaSOstatuk.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\ZadachaSOstatuk\bin\Debug\ZadachaSOstatuk.pdb
+D:\SoftUni\30.01\ConditionalStatement30.01\ZadachaSOstatuk\obj\Debug\ZadachaSOstatuk.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\ZadachaSOstatuk\obj\Debug\ZadachaSOstatuk.pdb
+D:\SoftUni\30.01\ConditionalStatement30.01\ZadachaSOstatuk\obj\Debug\ZadachaSOstatuk.csprojResolveAssemblyReference.cache

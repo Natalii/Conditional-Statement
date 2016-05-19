@@ -1,0 +1,5 @@
+D:\SoftUni\30.01\ConditionalStatement30.01\MetricConverter1\bin\Debug\MetricConverter1.exe.config
+D:\SoftUni\30.01\ConditionalStatement30.01\MetricConverter1\bin\Debug\MetricConverter1.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\MetricConverter1\bin\Debug\MetricConverter1.pdb
+D:\SoftUni\30.01\ConditionalStatement30.01\MetricConverter1\obj\Debug\MetricConverter1.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\MetricConverter1\obj\Debug\MetricConverter1.pdb

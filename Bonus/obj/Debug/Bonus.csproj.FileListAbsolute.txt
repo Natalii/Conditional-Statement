@@ -1,0 +1,5 @@
+D:\SoftUni\30.01\ConditionalStatement30.01\Bonus\bin\Debug\Bonus.exe.config
+D:\SoftUni\30.01\ConditionalStatement30.01\Bonus\bin\Debug\Bonus.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\Bonus\bin\Debug\Bonus.pdb
+D:\SoftUni\30.01\ConditionalStatement30.01\Bonus\obj\Debug\Bonus.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\Bonus\obj\Debug\Bonus.pdb

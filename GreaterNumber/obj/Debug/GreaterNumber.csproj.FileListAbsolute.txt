@@ -1,0 +1,6 @@
+D:\SoftUni\30.01\ConditionalStatement30.01\GreaterNumber\bin\Debug\GreaterNumber.exe.config
+D:\SoftUni\30.01\ConditionalStatement30.01\GreaterNumber\bin\Debug\GreaterNumber.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\GreaterNumber\bin\Debug\GreaterNumber.pdb
+D:\SoftUni\30.01\ConditionalStatement30.01\GreaterNumber\obj\Debug\GreaterNumber.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\GreaterNumber\obj\Debug\GreaterNumber.pdb
+D:\SoftUni\30.01\ConditionalStatement30.01\GreaterNumber\obj\Debug\GreaterNumber.csprojResolveAssemblyReference.cache

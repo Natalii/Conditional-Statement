@@ -1,0 +1,6 @@
+D:\SoftUni\30.01\ConditionalStatement30.01\Proba6\bin\Debug\Proba6.exe.config
+D:\SoftUni\30.01\ConditionalStatement30.01\Proba6\bin\Debug\Proba6.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\Proba6\bin\Debug\Proba6.pdb
+D:\SoftUni\30.01\ConditionalStatement30.01\Proba6\obj\Debug\Proba6.csprojResolveAssemblyReference.cache
+D:\SoftUni\30.01\ConditionalStatement30.01\Proba6\obj\Debug\Proba6.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\Proba6\obj\Debug\Proba6.pdb

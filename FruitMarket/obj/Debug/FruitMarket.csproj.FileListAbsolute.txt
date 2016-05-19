@@ -1,0 +1,6 @@
+D:\SoftUni\30.01\ConditionalStatement30.01\FruitMarket\bin\Debug\FruitMarket.exe.config
+D:\SoftUni\30.01\ConditionalStatement30.01\FruitMarket\bin\Debug\FruitMarket.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\FruitMarket\bin\Debug\FruitMarket.pdb
+D:\SoftUni\30.01\ConditionalStatement30.01\FruitMarket\obj\Debug\FruitMarket.csprojResolveAssemblyReference.cache
+D:\SoftUni\30.01\ConditionalStatement30.01\FruitMarket\obj\Debug\FruitMarket.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\FruitMarket\obj\Debug\FruitMarket.pdb

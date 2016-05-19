@@ -1,0 +1,6 @@
+D:\SoftUni\30.01\ConditionalStatement30.01\MetricConverter\bin\Debug\MetricConverter.exe.config
+D:\SoftUni\30.01\ConditionalStatement30.01\MetricConverter\bin\Debug\MetricConverter.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\MetricConverter\bin\Debug\MetricConverter.pdb
+D:\SoftUni\30.01\ConditionalStatement30.01\MetricConverter\obj\Debug\MetricConverter.csprojResolveAssemblyReference.cache
+D:\SoftUni\30.01\ConditionalStatement30.01\MetricConverter\obj\Debug\MetricConverter.exe
+D:\SoftUni\30.01\ConditionalStatement30.01\MetricConverter\obj\Debug\MetricConverter.pdb
